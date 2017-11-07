@@ -3,5 +3,6 @@
     <pages>
         <page name='battleship'/>
         <page name='wrapping-core-image'/>
+        <page name='map-filter-reduce'/>
     </pages>
 </playground>
