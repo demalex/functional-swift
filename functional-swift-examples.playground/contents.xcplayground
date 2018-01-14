@@ -6,5 +6,7 @@
         <page name='map-filter-reduce'/>
         <page name='optionals'/>
         <page name='quick-check'/>
+        <page name='value-of-immutability'/>
+        <page name='enumerations'/>
     </pages>
 </playground>
