@@ -8,5 +8,6 @@
         <page name='quick-check'/>
         <page name='value-of-immutability'/>
         <page name='enumerations'/>
+        <page name='binary-search-tries'/>
     </pages>
 </playground>
